@@ -2,7 +2,7 @@
 
 An Angular Universal demo app using Angular and .NetCore
 
-Source:
+Sources:
 
 [https://medium.com/@MarkPieszak/angular-universal-server-side-rendering-deep-dive-dc442a6be7b7](https://medium.com/@MarkPieszak/angular-universal-server-side-rendering-deep-dive-dc442a6be7b7)<br>
 [https://angular.io/guide/universal](https://angular.io/guide/universal)<br>
